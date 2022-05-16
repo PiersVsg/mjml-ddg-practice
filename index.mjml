@@ -10,7 +10,7 @@
         <mj-image width="165px" src="./src/assets/articleone.png"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-text font-weight="bold" align="justify" font-size="24px" color="#000" font-family="helvetica">Search Preference Menus:</mj-text>
+        <mj-text font-weight="bold" align="left" font-size="24px" color="#000" font-family="helvetica">Search Preference Menus:</mj-text>
         <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">Google Auction Ignores Screen Size and Scrolling</mj-text>
         <mj-button href="https://spreadprivacy.com/search-preference-menus-scrolling/" align="left" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
       </mj-column>
