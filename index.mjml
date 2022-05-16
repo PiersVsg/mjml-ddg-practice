@@ -1,0 +1,40 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#60a5da">
+      <mj-column>
+        <mj-image href="https://spreadprivacy.com" width="162px" src="./src/assets/ddglogo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="165px" src="./src/assets/articleone.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" align="justify" font-size="24px" color="#000" font-family="helvetica">Search Preference Menus:</mj-text>
+        <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">Google Auction Ignores Screen Size and Scrolling</mj-text>
+        <mj-button href="https://spreadprivacy.com/search-preference-menus-scrolling/" align="left" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#353748">
+      <mj-column>
+        <mj-image width="165px" src="./src/assets/articletwo.png"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#DBDCE1" font-family="helvetica">Working from Home?</mj-text>
+        <mj-text align="justify" font-size="12px" color="#DBDCE1" font-family="helvetica">Consider These Privacy-Focused Tools</mj-text>
+        <mj-button href="https://spreadprivacy.com/private-tools-remote-work/" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="./src/assets/articlethree.png"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#DBDCE1" font-family="helvetica">How to Live Without Google:</mj-text>
+        <mj-text align="justify" font-size="12px" color="#DBDCE1" font-family="helvetica">Alternatives That Protect Your Privacy</mj-text>
+        <mj-button href="https://spreadprivacy.com/how-to-remove-google/" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image width="165px" src="./src/assets/articlefour.png"></mj-image>
+        <mj-text font-weight="bold" align="center" font-size="16px" color="#DBDCE1" font-family="helvetica">Measuring the "Filter Bubble":</mj-text>
+        <mj-text align="justify" font-size="12px" color="#DBDCE1" font-family="helvetica">How Google is influencing what you click</mj-text>
+        <mj-button href="https://spreadprivacy.com/google-filter-bubble-study/" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+  
+</mjml>
