@@ -7,7 +7,7 @@
     </mj-section>
     <mj-section background-color="#f3f3f3">
       <mj-column>
-        <mj-image width="165px" src="./src/assets/articleone.png"></mj-image>
+        <mj-image src="./src/assets/articleone.png"></mj-image>
       </mj-column>
       <mj-column>
         <mj-text font-weight="bold" align="left" font-size="24px" color="#000" font-family="helvetica">Search Preference Menus:</mj-text>
@@ -31,7 +31,7 @@
       <mj-column>
         <mj-image width="165px" src="./src/assets/articlefour.png"></mj-image>
         <mj-text font-weight="bold" align="center" font-size="16px" color="#DBDCE1" font-family="helvetica">Measuring the "Filter Bubble":</mj-text>
-        <mj-text align="justify" font-size="12px" color="#DBDCE1" font-family="helvetica">How Google is influencing what you click</mj-text>
+        <mj-text align="justify" font-size="12px" color="#DBDCE1" font-family="helvetica">How Google influences your clicks</mj-text>
         <mj-button href="https://spreadprivacy.com/google-filter-bubble-study/" background-color="#3969EF" border-radius="40px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
       </mj-column>
     </mj-section>
